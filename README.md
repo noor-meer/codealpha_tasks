@@ -13,15 +13,21 @@ To build a robust classification model that accurately assesses credit risk usin
 The project follows a standard machine learning pipeline:
 
 ✔ Data Preprocessing & Exploratory Data Analysis (EDA)
+
 ✔ Feature Engineering & Selection
+
 ✔ Model Training & Evaluation
+
 ✔ Performance Analysis & Interpretation
 
 ## Key Features
 
 ✔ Feature Engineering: Created meaningful features such as debt-to-income ratio and payment behavior indicators.
+
 ✔ Handling Imbalanced Data: Applied techniques like SMOTE or class weighting to address the imbalance in the target variable.
+
 ✔ Hyperparameter Tuning: Used GridSearchCV/RandomizedSearchCV for optimizing model performance.
+
 ✔ Model Evaluation: Assessed using metrics such as:
 1. Precision
 2. Recall
